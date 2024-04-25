@@ -13,7 +13,7 @@ I took the Data Analyst course in 2023 and learned the basics:
 • SQL ( PostgreSQL)
 
 * 🌍  I'm based in Copenhagen now.
-* ✉️  You can contact me at [mechty.kiev@gmail.com](mailto:mechty.kiev@gmail.com)
+* ✉️  You can contact me at [tamara.tarasenko.work@gmail.com](mailto:tamara.tarasenko.work@gmail.com)
 * 🤝  I'm open to collaborating on a project where I could develop as a data analyst.
 * ⚡  I love the magic when numbers turn into beautiful graphs
 
